@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://fondosmil.com/fondo/20916.jpg");
+}
+h1, legend{
+font-family: Century Gothic;
+font-size: 18px;
+color: teal;
+font-weight: bold;
+}
+
+h2{
+    font-family: Century Gothic;
+    font-size: 14px;
+    color: black;
+}
+
+fieldset{
+    border: 5px solid teal;
+}
+
+iframe{
+    width: 850px;
+    height: 85vh;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(5, 118, 124, 0.2), 0 10px 40px 0px rgba(12, 214, 201, 0.19);
+}
